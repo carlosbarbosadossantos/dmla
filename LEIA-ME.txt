@@ -1,0 +1,9 @@
+LANDING PAGE DMLA LUCIENE
+
+Abra index.html no navegador.
+Todos os arquivos estão na mesma pasta, inclusive imagens WEBP.
+HTML: index.html | CSS: style.css | JS: script.js
+Imagens: hero.webp, pos-obra.webp, pre-mudanca.webp, ambientes.webp.
+WhatsApp configurado: (11) 98015-5936.
+As imagens dos imóveis são geradas digitalmente e ilustrativas; não são registros de serviços prestados.
+Fontes Google Fonts precisam de internet; sem internet são usadas fontes alternativas.
